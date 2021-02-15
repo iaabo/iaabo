@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Inês
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React projects
+- 💻 I’m currently learning React.js
+- 👀 I’m looking to collaborate on React projects
 - 📫 How to reach me: Check my portfólio on the left
 
 <!---
